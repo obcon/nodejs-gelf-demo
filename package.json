@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-gelf-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marco Obermeyer",
+  "dependencies": {
+    "bunyan": "^1.8.1"
+  }
+}
